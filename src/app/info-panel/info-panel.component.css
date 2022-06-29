@@ -1,0 +1,6 @@
+.sidepanel
+ {
+  float: left;
+  background-color: brown;
+  /* width: calc(100%-40rem); */
+ }

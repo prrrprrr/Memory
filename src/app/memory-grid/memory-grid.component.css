@@ -1,0 +1,20 @@
+.grid {
+  float: right;
+  width: 40rem;
+  height: 40rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color: green;
+}
+
+/* .memory-grid {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color: white;
+  width: 70%;
+  gap: 1rem 1rem;
+  grid-auto-rows: 4;
+  grid-auto-columns: 4;
+} */
